@@ -1,0 +1,33 @@
+body {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    background-image: url("kepek/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-top: 10%;
+}
+
+img {
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+
+p {
+    color: white;
+}
