@@ -7,13 +7,12 @@ body {
     background-size: cover;
 }
 
-h1 {
+h1, h2, p, a {
     color: white;
 }
 
 a {
     text-decoration: none;
-    color: white;
 }
 
 .grid {
@@ -26,8 +25,4 @@ img {
     display: block;
     width: 90%;
     margin: auto;
-}
-
-p {
-    color: white;
 }
